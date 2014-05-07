@@ -1,13 +1,15 @@
 # ripse-blog
 
-RIdiculous PSEudo blogging platform written mostly in JS. Actually, it's just a
-small piece of code loading posts stored in .json files. It is intended to be
-put in VCS repository, but there's no need to do so..
+This is RIdiculous PSEudo blogging platform written mostly in JS. Actually,
+it's just a small piece of code loading posts stored in .json files. It is
+intended to be put in VCS repository, but there's no need to do so..
 
 Anyway, it was created for two reasons: learn js basics and make a system for a
 personal site to host anywhere and store data in git. There could already be
 such systems, and they could be better. But this works and data can be simply
 converted into anything else.
+
+You can see it in action here: http://caryoscelus.github.io/ripse-blog/
 
 ## comments
 There are no support for comment adding. It is probably possible to make
