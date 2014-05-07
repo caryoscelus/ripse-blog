@@ -1,0 +1,51 @@
+{
+    "title" : "ripse-blog test",
+    "header" : "ripse-blog test",
+    "posts" : [
+        {
+            "type"      : "post",
+            "id"        : 0,
+            "author"    : "caryoscelus",
+            "title"     : "Welcome!",
+            "date"      : "2014.05.07",
+            "time"      : "13:44",
+            "file"      : "0000-welcome"
+        },
+        {
+            "type"      : "post",
+            "id"        : 1,
+            "author"    : "caryoscelus",
+            "title"     : "Another meaningless post..",
+            "date"      : "2014.05.07",
+            "time"      : "13:46",
+            "file"      : "0001-helloworld"
+        },
+        {
+            "type"      : "post",
+            "id"        : 2,
+            "author"    : "public-domain",
+            "title"     : "Large psto :)",
+            "date"      : "2014.05.07",
+            "time"      : "14:20",
+            "file"      : "0002-large-psto"
+        },
+        {
+            "type"      : "post",
+            "id"        : 3,
+            "author"    : "caryoscelus",
+            "title"     : "no html",
+            "date"      : "2014.05.07",
+            "time"      : "14:25",
+            "file"      : "0003-nohtml"
+        },
+        {
+            "type"      : "post",
+            "id"        : 4,
+            "author"    : "caryoscelus",
+            "title"     : "post from future",
+            "date"      : "2014.05.07",
+            "time"      : "14:57",
+            "file"      : "0004-future-2"
+        }
+    ]
+}
